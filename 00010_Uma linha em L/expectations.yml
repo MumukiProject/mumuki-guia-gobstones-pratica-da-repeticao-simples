@@ -1,0 +1,12 @@
+---
+expectations:
+- binding: GuardaEnL
+  inspection: Not:Uses:Colocar
+- binding: GuardaEnL
+  inspection: Not:Uses:ColocarN
+- binding: GuardaEnL
+  inspection: UsesRepeat
+- binding: GuardaEnL
+  inspection: Uses:ColocarAzulejo
+- binding: GuardaEnL
+  inspection: Uses:MoverN

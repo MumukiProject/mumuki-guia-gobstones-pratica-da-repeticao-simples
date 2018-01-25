@@ -1,0 +1,17 @@
+procedure ColocarAzulejo(){
+    Colocar(Verde)
+    ColocarN(5,Preto)
+    ColocarN(9,Vermelho)
+}
+
+procedure ColocarN(n,c){
+  repeat(n){
+    Colocar(c)
+  }
+}
+
+procedure MoverN(n,d){
+  repeat(n){
+    Mover(d)
+  }
+}
