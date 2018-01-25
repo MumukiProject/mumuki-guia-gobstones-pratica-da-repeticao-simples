@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: BandaDiagonal4
+  inspection: Uses:Diagonal4AzulVoltando
+- binding: BandaDiagonal4
+  inspection: UsesRepeat
