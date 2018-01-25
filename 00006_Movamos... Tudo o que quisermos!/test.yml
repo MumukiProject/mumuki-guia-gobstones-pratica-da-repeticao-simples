@@ -13,7 +13,7 @@ examples:
      head 2 0
    arguments:
      - 2
-     - Este
+     - Leste
      
  - initial_board: |
      GBB/1.0
@@ -25,4 +25,4 @@ examples:
      head 0 0
    arguments:
      - 1
-     - Sur
+     - Sul

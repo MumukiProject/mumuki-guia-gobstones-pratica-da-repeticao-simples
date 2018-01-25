@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:DesenharRelogio
+- binding: DesenharRelogio
+  inspection: Uses:MoverN
+- binding: DesenharRelogio
+  inspection: Not:UsesRepeat
+- binding: DesenharRelogio
+  inspection: Uses:ColocarN
