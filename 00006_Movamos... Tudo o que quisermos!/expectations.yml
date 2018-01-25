@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity2:MoverN
+- binding: MoverN
+  inspection: UsesRepeat
