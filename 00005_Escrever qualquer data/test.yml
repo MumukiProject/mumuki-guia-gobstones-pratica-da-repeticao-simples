@@ -1,0 +1,37 @@
+check_head_position: false
+
+subject: Data
+
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 3 1
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 3 1
+     cell 0 0 Azul 15 
+     cell 1 0 Verde 1 
+     cell 2 0 Negro 1985
+     head 2 0
+   arguments:
+     - 15
+     - 1
+     - 1985
+     
+ - initial_board: |
+     GBB/1.0
+     size 3 1
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 3 1
+     cell 0 0 Azul 4 
+     cell 1 0 Verde 6 
+     cell 2 0 Negro 2000
+     head 2 0
+   arguments:
+     - 4
+     - 6
+     - 2000
+     
