@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: GuardaDe5
+  inspection: Uses:ColocarN
+- binding: GuardaDe5
+  inspection: UsesRepeat

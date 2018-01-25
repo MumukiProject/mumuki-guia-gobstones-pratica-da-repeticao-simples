@@ -1,0 +1,5 @@
+procedure ColocarN(n, c){
+  repeat(n){
+    Colocar(c)
+  }
+}

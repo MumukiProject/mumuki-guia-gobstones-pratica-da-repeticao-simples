@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity3:LinhaLestePesada
+- binding: LinhaLestePesada
+  inspection: UsesRepeat
+- binding: LinhaLestePesada
+  inspection: Uses:ColocarN
+- binding: LinhaLestePesada
+  inspection: Uses:MoverN
