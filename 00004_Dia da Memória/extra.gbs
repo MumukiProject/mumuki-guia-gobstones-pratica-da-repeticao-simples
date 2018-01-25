@@ -1,0 +1,13 @@
+procedure ColocarN(n,c){
+  repeat(n){
+    Colocar(c)
+  }
+}
+
+procedure Data(a,b,c){
+    ColocarN(a,Azul)
+    Mover(Leste)
+    ColocarN(b,Verde)
+    Mover(Leste)
+    ColocarN(c,Preto)
+}

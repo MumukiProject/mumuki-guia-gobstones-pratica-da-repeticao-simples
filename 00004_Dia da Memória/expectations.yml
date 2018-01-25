@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: FimDaDitaduraMilitar
+  inspection: Uses:ColocarN
+- binding: FimDaDitaduraMilitar
+  inspection: Not:UsesRepeat
