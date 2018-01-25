@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity2:ColocarN
+- binding: ColocarN
+  inspection: UsesRepeat
