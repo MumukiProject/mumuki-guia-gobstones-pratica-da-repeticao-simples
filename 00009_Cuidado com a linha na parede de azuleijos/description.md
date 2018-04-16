@@ -1,3 +1,3 @@
 Bom, já é hora de algum exercício integrador...
 
-> Fazer um procedimento `GuardaDe5()`, que faça uma "linha" (como as que decoram as paredes). Cada **azulejo** da linha está formado por 1 pedra verde, 5 pretas y 9 vermelhas.
+> Fazer um procedimento `GuardaDe5()`, que faça uma "linha" (como as que decoram as paredes). Cada **azulejo** da linha está formado por 1 pedra verde, 5 pretas e 9 vermelhas.
