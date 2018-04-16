@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: GuardaEnL
+subject: GuardaEmL
 
 examples:
  - initial_board: |

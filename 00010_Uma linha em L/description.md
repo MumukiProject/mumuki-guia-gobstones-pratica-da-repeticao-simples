@@ -1,4 +1,4 @@
-Fazer um procedimento `GuardaEnL()`, que faça uma linha en L como mostra a figura, mas **deixando a garra na posição inicial**.
+Fazer um procedimento `GuardaEmL()`, que faça uma linha en L como mostra a figura, mas **deixando a garra na posição inicial**.
 
 <gs-board>
  GBB/1.0

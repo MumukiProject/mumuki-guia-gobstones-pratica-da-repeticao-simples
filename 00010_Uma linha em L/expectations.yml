@@ -1,12 +1,12 @@
 ---
 expectations:
-- binding: GuardaEnL
+- binding: GuardaEmL
   inspection: Not:Uses:Colocar
-- binding: GuardaEnL
+- binding: GuardaEmL
   inspection: Not:Uses:ColocarN
-- binding: GuardaEnL
+- binding: GuardaEmL
   inspection: UsesRepeat
-- binding: GuardaEnL
+- binding: GuardaEmL
   inspection: Uses:ColocarAzulejo
-- binding: GuardaEnL
+- binding: GuardaEmL
   inspection: Uses:MoverN
