@@ -7,7 +7,7 @@ Agora, precisa mostrar que você pode _desenhar um relógio_. O que faremos agor
 * o 9 à esquerda, e
 * o 6 embaixo.
 
-> Fazer um procedimento `DesenharRelogio(radio)`, que coloque os números do relógio como se indica acima, **em volta da divisão atual**. O tamanho do relógio se indica com o `raio` que você recebe por parâmetro: quanto maior é o raio, mais longe os números estarão do centro.
+> Fazer um procedimento `DesenharRelogio(raio)`, que coloque os números do relógio como se indica acima, **em volta da divisão atual**. O tamanho do relógio se indica com o `raio` que você recebe por parâmetro: quanto maior é o raio, mais longe os números estarão do centro.
 
 Dado o seguiente `program`:
 
